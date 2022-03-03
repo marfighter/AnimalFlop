@@ -1,1 +1,1 @@
-# MemoryDuel
+MemoryDuel是一款免费的记忆翻牌娱乐游戏，支持两人一起玩，看谁是最后赢家
